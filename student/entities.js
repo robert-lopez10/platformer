@@ -160,6 +160,8 @@ heart: {
   treasure: false,
   power: { life: 1 },
 
+},
+
 };
 
 
@@ -187,6 +189,6 @@ const LEGEND = {
   "E": { kind: "enemy",  name: "walker" },
   "F": { kind: "enemy",  name: "flyer" },
   "H": { kind: "enemy",  name: "hopper" },
-"S": {kind: "enemy", name: "sentry" },
-   "h" : {kind: "pickup", name: "heart" },
+  "S": {kind: "enemy", name: "sentry" },
+  "h" : {kind: "pickup", name: "heart" },
 };
