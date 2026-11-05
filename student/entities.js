@@ -84,7 +84,7 @@ const ENEMY_TYPES = {
   },
 
 sentry: {
-  movement: "patrol",
+  movement: "chase",
   speed: 80,
   width: 20,
   height: 20,
