@@ -95,7 +95,7 @@ const LEVELS = [
     // goal, so it already works. Make it yours.
     
 {
-  name: "Sentry Chaser",
+  name: "Challenge 1: Sentry Patrol",
   map: `
 ............................................
 ............................................
