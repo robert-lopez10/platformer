@@ -94,13 +94,8 @@ const LEVELS = [
     // Rename it, then draw. This starter is just a floor, a start and a
     // goal, so it already works. Make it yours.
     
-<<<<<<< HEAD
 
   name: "Challenge 1: Sentry Post",
-=======
-{
-  name: "Challenge 1: Sentry Patrol",
->>>>>>> 2a839e027f6ed9b886dade68a679deb7ad332926
   map: `
 ............................................
 ............................................
